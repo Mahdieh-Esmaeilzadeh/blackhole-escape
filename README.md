@@ -3,8 +3,9 @@
 A fun and challenging Pygame game where you pilot a spaceship to escape a gravitational black hole while dodging asteroids and blasting them with lasers. Features gravity simulation, particle effects, and alignment mechanics for vertical movement!
 
 ## Screenshots
-![Gameplay](screenshots/gameplay.gif)
-![Title Screen](screenshots/title.png)
+![Title Screen](screenshots/1.png)
+![Title Screen](screenshots/2.png)
+![Title Screen](screenshots/3.png)
 
 ## How to Play
 - **Controls:**
