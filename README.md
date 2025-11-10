@@ -16,3 +16,26 @@ A fun and challenging Pygame game where you pilot a spaceship to escape a gravit
 
 ## Installation
 1. Clone the repo:
+2. Install dependencies
+3. Run the game
+
+
+
+## Features
+- Realistic gravity pull (inverse square law)
+- Moving black hole with rotating accretion disk
+- Asteroid spawning and shooting mechanics
+- Particle effects for engines and explosions
+- Win/Lose screens with fireworks
+
+## Tech Stack
+- Python 3.x
+- Pygame for graphics and input
+
+## Contributing
+Pull requests welcome! For major changes, please open an issue first.
+
+## License
+MIT License - see [LICENSE](LICENSE) for details.
+
+Made with ❤️ using Pygame. Stars and forks appreciated! ⭐
